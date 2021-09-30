@@ -11,7 +11,7 @@ Flag Interpreter is a fun app to search for a flag or click the flag listed on t
 ### Get the latest version of the project:
 
 ```bash
-$ git clone https://github.com/piyushahir28/Fun-Flag.git
+$ git clone https://github.com/Sharique46/Fun-Flag.git
 $ npm install
 $ npm start
 ```

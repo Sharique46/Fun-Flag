@@ -64,20 +64,20 @@ export default function App() {
           <p>
             Made with &lt;&#47;&gt; by{" "}
             <a
-              href="https://piyushahir28.netlify.app"
+              href="https://shariqueahmed.netlify.app"
               target="_blank"
               class="with-para"
             >
               Piyush
             </a>
             <br></br>
-            <a href="https://github.com/piyushahir28" target="_blank">
+            <a href="https://github.com/Sharique46" target="_blank">
               <i class="fa fa-github"></i>
             </a>
-            <a href="https://twitter.com/piyushahir28" target="_blank">
+            <a href="https://twitter.com/Sharique46" target="_blank">
               <i class="fa fa-twitter"></i>
             </a>
-            <a href="https://linkedin.com/in/piyushahir28" target="_blank">
+            <a href="https://linkedin.com/in/Sharique46" target="_blank">
               <i class="fa fa-linkedin"></i>
             </a>
           </p>
